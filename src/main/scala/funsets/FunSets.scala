@@ -19,7 +19,8 @@ object FunSets {
   /**
    * Returns the set of the one given element.
    */
-    def singletonSet(elem: Int): Set = ???
+    def singletonSet(elem: Int): Set = {
+//http://stackoverflow.com/questions/13052735/is-my-understanding-of-below-scala-code-correct    }
   
 
   /**
